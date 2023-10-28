@@ -1,5 +1,5 @@
 # Online-Ordering-System-for-Restaurants
-In this project, we first define entities, then normalize them, and finally write an SQL code. Also, some random queries are provided for the database.
+In this group project, we first define entities, then normalize them, and finally write an SQL code. Also, some random queries are provided for the database.
 ## Introduction
 
  This repository contains SQL scripts and queries that can be used to manage, analyze, and optimize data for an online food delivery service similar to Uber Eats. Whether you are working on a similar project, conducting analysis, or simply want to explore how Uber Eats might handle its data, this repository can be a valuable resource.
